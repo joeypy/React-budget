@@ -1,6 +1,6 @@
 # Proyecto de Presupuestos
 
-- Demo: [https://react.designio.tech/citas/](https://react.designio.tech/citas/)
+- Demo: [Aquí](https://react.designio.tech/presupuesto/)
 - Descripción: Proyecto sencillo para agregar los gastos y ver el presupuesto correspondiente.
 
 ## Desplegar el proyecto
